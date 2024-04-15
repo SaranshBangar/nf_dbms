@@ -3,7 +3,7 @@ const page = () => {
       <main className="flex justify-center items-center">
           <div className="w-[60%] mt-12 max-sm:w-[90%]">
               <h1 className="text-5xl text-center font-sans font-bold text-slate-200 max-sm:text-3xl">Boyce-Codd Normal Form (BCNF)</h1>
-              <p className="text-2xl text-slate-400 font-sans font-medium mt-4 max-sm:text-[1.4rem]">BCNF strides onto the scene like a celebrity dog trainer at the obedience class. It's not satisfied with just any old tricks; it wants our data to perform flawlessly. BCNF looks at our tables and demands perfection, ensuring that every table is free from any non-trivial functional dependencies on candidate keys. It's like asking our dogs to perform complicated agility courses with precision and grace. With BCNF, our data is in a league of its own, shining like a champion show dog at the Westminster Kennel Club.</p>
+              <p className="text-2xl text-slate-400 font-sans font-medium mt-4 max-sm:text-[1.4rem]">BCNF strides onto the scene like a celebrity dog trainer at the obedience class. It&apos;s not satisfied with just any old tricks; it wants our data to perform flawlessly. BCNF looks at our tables and demands perfection, ensuring that every table is free from any non-trivial functional dependencies on candidate keys. It's like asking our dogs to perform complicated agility courses with precision and grace. With BCNF, our data is in a league of its own, shining like a champion show dog at the Westminster Kennel Club.</p>
               <div className="flex justify-center">
                   <img
                       src="/celebrity_trainer.jpg"
